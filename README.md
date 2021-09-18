@@ -5,4 +5,4 @@
 - 📫 Reach out to me directly through my [Email](mailto:fhlevi2804@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fhlevi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zainokta/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fhlevi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fhlevi)
