@@ -1,7 +1,3 @@
-## &#x1f4c8; GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fhlevi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fhlevi)
-
-
 <!-- 1. BANNER -->
 
 <!-- 2. HERO - TITLE -->
