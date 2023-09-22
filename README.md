@@ -72,7 +72,7 @@ What To Do: Explain how others can engage with your repository or project. This 
       </a>
       <!-- TypeScript -->
       <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank">
-        <img src=https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=TypeScript&logoColor=3178C6" alt="typescript" />
+        <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=TypeScript&logoColor=3178C6" alt="typescript" />
       </a>
       <!-- Node -->
       <a href="https://nodejs.org/en" target="_blank">
