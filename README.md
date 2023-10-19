@@ -129,7 +129,7 @@ What To Do: Explain how others can engage with your repository or project. This 
 <!--   <a href="https://discordapp.com/users/1103268210930896896" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />
   </a> -->
-  <a href=https://www.linkedin.com/in/fhlevi" target="_blank">
+  <a href=https://www.linkedin.com/in/fhlevi target="_blank">
     <img alt="Volkswagen" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
